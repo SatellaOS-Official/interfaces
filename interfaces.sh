@@ -1,3 +1,3 @@
 #/bin/bash
 
-sudo cp interfaces /etc/network/interfaces
+sudo cp $HOME/git-script/interfaces/interfaces /etc/network/interfaces
